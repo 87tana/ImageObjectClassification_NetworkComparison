@@ -15,5 +15,5 @@
   
 - Statistical metrics was used to evaluate model performance.
   
-- See the Metrics in a table below: Accuracy,F1-score, MAE; MSE, RMSE
+- See the Metrics in a table below: Accuracy,F1-score, MAE, MSE, RMSE
 
