@@ -1,5 +1,6 @@
-# Brain_Tumor_Classification
+# Deep Learning Case Study: Model Building and Network Comparison
 
+## Brain_Tumor_Classification
 
 <div align="center">
     <img width="400" src="brain-scan.jpg" alt="Material Bread logo">
