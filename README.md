@@ -21,7 +21,7 @@ The primary drive behind this application is to provide valuable support to neur
 2. Implement a segmentation process on MRI images to accurately separate tumor regions from normal brain tissues.
 
 ##
-- The data set obtained from kaggle
+- Source of Data: [Brain Tumor](https://figshare.com/articles/dataset/brain_tumor_dataset/1512427)
   
 - Develop a Neural Network model aimed at the classification of whether a patient has a brain tumor or not based on the analysis of brain MRI scans.
 
