@@ -27,7 +27,7 @@ The primary drive behind this application is to provide valuable support to neur
 
 - Developed 3 Deep Neural Network models i.e. DenseNet(Densely Connected Convolutional Networks), ReseNet50,Xception in order to classify the Brain MRI Images to 4 different independent classes.
   
-- Statistical metrics was used to evaluate model performance.
+- Statistical metrics was used to evaluate model peformance.
   
 - See the Metrics in a table below: Accuracy,F1-score, MAE, MSE, RMSE
 
