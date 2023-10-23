@@ -25,7 +25,7 @@ The primary drive behind this application is to provide valuable support to neur
   
 - Develop a Neural Network model aimed at the classification of whether a patient has a brain tumor or not based on the analysis of brain MRI scans.
 
-- Developed 3 Deep Neural Network models i.e. DenseNet(Densely Connected Convolutional Networks), ReseNet50,Xception in order to classify the Brain MRI Images to 4 different independent classes.
+- Developed 3 Deep Neural Network models i.e. MobileNet,Xception,ReseNet50 in order to classify the Brain MRI Images to 4 different independent classes.
   
 - Statistical metrics was used to evaluate model peformance.
   
