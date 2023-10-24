@@ -7,9 +7,9 @@
 </div>
 
 ## Problem Statement:
-Given a dataset of known Brain Tumor diagnoses it is possible to develop and implement an image-based classifier for capable of autonomously identifying brain tumors and potential anomalies.
 
-
+- Given a dataset encompassing known brain tumor diagnoses, it is feasible to develope and implement an image-based classifier proficient in autonomously identifying brain tumors and potential anomalies.
+- Source of data [Brain Tumor](https://figshare.com/articles/dataset/brain_tumor_dataset/1512427) 
 
 ## Motivation and Goals:
 
@@ -21,8 +21,6 @@ The primary drive behind this application is to provide valuable support to neur
 2. Implement a segmentation process on MRI images to accurately separate tumor regions from normal brain tissues.
 
 ##
-- Source of Data: [Brain Tumor](https://figshare.com/articles/dataset/brain_tumor_dataset/1512427)
-  
 - Develop a Neural Network model aimed at the classification of whether a patient has a brain tumor or not based on the analysis of brain MRI scans.
 
 - Developed 3 Deep Neural Network models i.e. MobileNet,Xception,ReseNet50 in order to classify the Brain MRI Images to 4 different independent classes.
