@@ -6,9 +6,9 @@
     <img width="400" src="/images/brain-outline-drawing-12.png" alt="Material Bread logo"> 
 </div>
 
-## Problem Statement:
+## Introduction:
+This project centers on the application of deep learning techniques to identify brain tumors in MRI scans, emphasizing a comparative analysis of diverse transfer learning approaches. Magnetic Resonance Imaging (MRI) serves as a premier diagnostic tool for this purpose. The integration of deep learning, a cutting-edge technology in medical image analysis, has yielded remarkable results. Leveraging these methods, I successfully classified brain tumors into four categories: No Tumor, Glioma Tumor, Meningioma Tumor, and Pituitary Tumor.
 
-- Given a dataset encompassing known brain tumor diagnoses, it is feasible to develope and implement an image-based classifier proficient in autonomously identifying brain tumors and potential anomalies.
 - Source of data [Brain Tumor](https://figshare.com/articles/dataset/brain_tumor_dataset/1512427) 
 
 ## Motivation and Goals:
