@@ -33,6 +33,17 @@ Provide valuable support to neurosurgeons and radiologists by offering a cost-ef
 Transfer learning accelerate deep CNN model training by reusing weights from pre-trained models on a large dataset, such as MobileNet with ImageNet weights. This approach is valuable for smaller datasets, providing an effective shortcut to model training. It involves adapting a pre-trained model to related tasks with limited labeled data, enhancing learning efficiency across various applications like image classification, object detection, etc.
 
 
+## Compare 3 deep neural network models:
+
+
+1. **MobileNet:**
+   - MobileNet is a lightweight neural network architecture designed for mobile and embedded vision applications. It is trained on the ImageNet dataset, and its efficient design makes it suitable for real-time image classification on resource-constrained devices.
+
+2. **Xception:**
+   - Xception is an extension of the Inception architecture, and it has also been trained on the ImageNet dataset. Xception focuses on improving the efficiency of learning hierarchical features from data. It has shown strong performance in image classification tasks.
+
+3. **ResNet50:**
+   - ResNet50 is part of the ResNet (Residual Network) architecture, specifically ResNet-50, which contains 50 layers. It is a deep convolutional neural network that excels in feature extraction and image classification. ResNet50 has been trained on the ImageNet dataset and has achieved state-of-the-art performance.
 
 
 
