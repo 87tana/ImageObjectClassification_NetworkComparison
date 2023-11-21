@@ -12,12 +12,15 @@ This project employs **deep learning** to classify brain tumors in MRI scans, em
 Three distinct deep neural network models, namely **MobileNet, Xception, and ResNet50 models**, we categorize brain tumors into four classes: No Tumor, Glioma, Meningioma, and Pituitary.
 These models predict the presence of a brain tumor based on MRI scans, and their comparative analysis offers insights into their performance for brain tumor classification.
 
-- Source of data [Brain Tumor](https://figshare.com/articles/dataset/brain_tumor_dataset/1512427) 
+- Source of data [Brain Tumor](https://figshare.com/articles/dataset/brain_tumor_dataset/1512427)
+
+## What is brain tumor?
+
+A brain tumor refers to an accumulation of abnormal cells in the brain, presenting a significant health concern due to its aggressive nature. Magnetic Resonance Imaging (MRI) stands out as the most effective technique for detecting brain tumors.
 
 ## Motivation and Goals:
 
-The primary drive behind this application is to provide valuable support to neurosurgeons and radiologists by offering a cost-effective and non-invasive means of brain tumor detection. The key objectives of this project are:
-
+Provide valuable support to neurosurgeons and radiologists by offering a cost-effective and non-invasive means of brain tumor detection. The key objectives of this project are:
 
 1. Develop a classification model to automatically identify MRI Brain images that exhibit the presence of tumors and distinguish them from those without tumors, aided by their respective mask images.
 
