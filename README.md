@@ -9,6 +9,12 @@
 ## Introduction:
 This project centers on the application of **deep learning techniques** to identify brain tumors in **MRI scans**, emphasizing a comparative analysis of diverse transfer learning approaches. Magnetic Resonance Imaging (MRI) serves as a premier diagnostic tool for this purpose. The integration of deep learning, a cutting-edge technology in **medical image analysis**, has yielded remarkable results. Leveraging these methods, I successfully **classified brain tumors** into **four categories**: No Tumor, Glioma Tumor, Meningioma Tumor, and Pituitary Tumor.
 
+
+This project focuses on utilizing deep learning techniques to identify brain tumors in MRI scans, with a specific emphasis on comparative analysis of various transfer learning approaches.
+MRI is a crucial diagnostic tool for this purpose. The objective is to classify brain tumors into four categories: No Tumor, Glioma Tumor, Meningioma Tumor, and Pituitary Tumor.
+
+Three distinct deep neural network models, namely MobileNet, Xception, and ResNet50, were developed for the classification of brain MRI images into these four independent classes. These models aim to predict whether a patient has a brain tumor or not based on the analysis of their brain MRI scans. The comparative analysis of these models provides insights into their respective performance and effectiveness in the task of brain tumor classification.
+
 - Source of data [Brain Tumor](https://figshare.com/articles/dataset/brain_tumor_dataset/1512427) 
 
 ## Motivation and Goals:
