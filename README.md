@@ -22,18 +22,17 @@ A brain tumor refers to an accumulation of abnormal cells in the brain, presenti
 
 Provide valuable support to neurosurgeons and radiologists by offering a cost-effective and non-invasive means of brain tumor detection. The key objectives of this project are:
 
-1. Develop a classification model to automatically identify MRI Brain images that exhibit the presence of tumors and distinguish them from those without tumors, aided by their respective mask images.
+1. Develop a Neural Network model aimed at the classification of whether a patient has a brain tumor or not.
 
-2. Implement a segmentation process on MRI images to accurately separate tumor regions from normal brain tissues.
+2. Comapre different transfer learning and 3 deep neural network models, i.e. MobileNet,Xception,ReseNet50 in order to classify the Brain MRI Images to 4 different independent classes.
 
-##
-- Develop a Neural Network model aimed at the classification of whether a patient has a brain tumor or not based on the analysis of brain MRI scans.
+3. Implement a segmentation process on MRI images to accurately separate tumor regions from normal brain tissues.
 
-- Developed 3 Deep Neural Network models i.e. MobileNet,Xception,ReseNet50 in order to classify the Brain MRI Images to 4 different independent classes.
-  
-- Statistical metrics was used to evaluate model peformance.
-  
-- See the Metrics in a table below: Accuracy,F1-score, MAE, MSE, RMSE
+## What is transfer learning?
+
+Transfer learning accelerate deep CNN model training by reusing weights from pre-trained models on a large dataset, such as MobileNet with ImageNet weights. This approach is valuable for smaller datasets, providing an effective shortcut to model training. It involves adapting a pre-trained model to related tasks with limited labeled data, enhancing learning efficiency across various applications like image classification, object detection, etc.
+
+
 
 
 
