@@ -46,6 +46,8 @@ Transfer learning accelerate deep CNN model training by reusing weights from pre
 
 ## Compare 4 deep neural network models:
 
+1. **VGG16:**
+
 
 1. **MobileNet:**
    - MobileNet is a lightweight neural network architecture designed for mobile and embedded vision applications. It is trained on the ImageNet dataset, and its efficient design makes it suitable for real-time image classification on resource-constrained devices.
