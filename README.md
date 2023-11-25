@@ -44,7 +44,7 @@ I tackle this problem through a structured process consisting of six key stages:
 Transfer learning accelerate deep CNN model training by reusing weights from pre-trained models on a large dataset, such as MobileNet with ImageNet weights. This approach is valuable for smaller datasets, providing an effective shortcut to model training. It involves adapting a pre-trained model to related tasks with limited labeled data, enhancing learning efficiency across various applications like image classification, object detection, etc.
 
 
-## Compare 3 deep neural network models:
+## Compare 4 deep neural network models:
 
 
 1. **MobileNet:**
