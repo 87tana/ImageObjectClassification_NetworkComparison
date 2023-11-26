@@ -24,9 +24,9 @@ Provide valuable support to neurosurgeons and radiologists by offering a cost-ef
 
 1. Develop a Neural Network model aimed at the classification of whether a patient has a brain tumor or not.
 
-2. Comapre different transfer learning and 3 deep neural network models, i.e. MobileNet,Xception,ReseNet50 in order to classify the Brain MRI Images to 4 different independent classes.
+2. Compare different transfer learning and 3 deep neural network models, i.e. MobileNet,Xception,ReseNet50 in order to classify the Brain MRI Images to 4 different independent classes.
 
-3. Implement a segmentation process on MRI images to accurately seprate tumor regions from normal brain tissues.
+3. Implement a segmentation process on MRI images to accurately separate tumor regions from normal brain tissues.
 
 
 ## Cohesive Framework:
