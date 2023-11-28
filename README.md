@@ -18,16 +18,11 @@ These models predict the presence of a brain tumor based on MRI scans, and their
 
 A brain tumor refers to an accumulation of abnormal cells in the brain, presenting a significant health concern due to its aggressive nature. Magnetic Resonance Imaging (MRI) stands out as the most effective technique for detecting brain tumors.
 
-## Motivation and Goals:
+## Data Augmentation and Rescaling
 
-Provide valuable support to neurosurgeons and radiologists by offering a cost-effective and non-invasive means of brain tumor detection. The key objectives of this project are:
+Data augmentation involves applying various transformations to the existing dataset to create additional training examples. These transformations, such as rotation, flipping, or zooming, help enhance the model's ability to generalize and perform well on unseen data. Data augmentation is particularly useful improving the neural network's ability to handle translation invariance.
 
-1. Develop a Neural Network model aimed at the classification of whether a patient has a brain tumor or not.
-
-2. Compare different transfer learning and 3 deep neural network models, i.e. MobileNet,Xception,ReseNet50 in order to classify the Brain MRI Images to 4 different independent classes.
-
-3. Implement a segmentation process on MRI images to accurately separate tumor regions from normal brain tissues.
-
+Apply rescaling to all three datasets (train, validation, and test) for comparability. However, limit data augmentation techniques to the training dataset only, excluding the test and validation sets. This ensures that the model is evaluated on its ability to make predictions on unseen, unaltered data during the testing and validation phases.
 
 ## Cohesive Framework:
 I tackle this problem through a structured process consisting of six key stages:
