@@ -3,7 +3,7 @@
 ## Brain_Tumor_Classification
 
 <div align="center">
-    <img width="400" src="/images/brain-outline-drawing-12.png" alt="Material Bread logo"> 
+    <img width="400" src="/images/0_C2YcJf9bavCCu5D0.jpg" alt="Material Bread logo"> 
 </div>
 
 ## Introduction:
