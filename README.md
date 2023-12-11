@@ -1,4 +1,6 @@
-# Deep Learning Case Study: Model Building and Network Comparison
+# Deep Learning Study: Brain Tumor Classification: A Comparative Analysis of Convolutional Neural Network Architecture on MRI Images
+
+Model Building and Network Comparison
 
 ## Brain_Tumor_Classification
 
