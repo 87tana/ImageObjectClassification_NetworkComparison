@@ -53,14 +53,17 @@ Transfer learning accelerate deep CNN model training by reusing weights from pre
 1. **VGG16:**
    - VGG16, a convolutional neural network with 16 weight layers, is a reliable choice as a base model for image classification due to its simplicity and effectiveness. It is characterized by a series of convolutional layers followed by max-pooling layers, ultimately leading to fully connected layers for classification tasks.
 
-1. **MobileNet:**
-   - MobileNet is a lightweight neural network architecture designed for mobile and embedded vision applications. It is trained on the ImageNet dataset, and its efficient design makes it suitable for real-time image classification on resource-constrained devices.
+     
+2. **ResNet50:**
+   - ResNet50 is part of the ResNet (Residual Network) architecture, specifically ResNet-50, which contains 50 layers. It is a deep convolutional neural network that excels in feature extraction and image classification. ResNet50 has been trained on the ImageNet dataset and has achieved state-of-the-art performance.
 
-2. **Xception:**
+
+3. **Xception:**
    - Xception is an extension of the Inception architecture, and it has also been trained on the ImageNet dataset. Xception focuses on improving the efficiency of learning hierarchical features from data. It has shown strong performance in image classification tasks.
 
-3. **ResNet50:**
-   - ResNet50 is part of the ResNet (Residual Network) architecture, specifically ResNet-50, which contains 50 layers. It is a deep convolutional neural network that excels in feature extraction and image classification. ResNet50 has been trained on the ImageNet dataset and has achieved state-of-the-art performance.
+
+4. **MobileNet:**
+   - MobileNet is a lightweight neural network architecture designed for mobile and embedded vision applications. It is trained on the ImageNet dataset, and its efficient design makes it suitable for real-time image classification on resource-constrained devices.
   
 
 
