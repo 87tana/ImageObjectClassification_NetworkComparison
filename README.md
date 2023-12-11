@@ -55,6 +55,11 @@ Transfer learning accelerate deep CNN model training by reusing weights from pre
 
 3. **ResNet50:**
    - ResNet50 is part of the ResNet (Residual Network) architecture, specifically ResNet-50, which contains 50 layers. It is a deep convolutional neural network that excels in feature extraction and image classification. ResNet50 has been trained on the ImageNet dataset and has achieved state-of-the-art performance.
+  
+
+## My Medium Articles on Brain Tumor Classification
+- Overview of VGG16, Xception, MobileNet, and ResNet50 Neural Networks [Medium](https://medium.com/@t.mostafid/overview-of-vgg16-xception-mobilenet-and-resnet50-neural-networks-c678e0c0ee85)
+
 
 
 
