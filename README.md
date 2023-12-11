@@ -1,4 +1,4 @@
-# Deep Learning Study: Brain Tumor Classification: A Comparative Analysis of Convolutional Neural Network Architecture on MRI Images
+# Comparative Analysis of CNN Architectures for Brain Tumor Classification in MRI Images
 
 Model Building and Network Comparison
 
