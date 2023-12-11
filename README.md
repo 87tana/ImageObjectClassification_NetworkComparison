@@ -1,6 +1,5 @@
 # Comparative Analysis of CNN Architectures for Brain Tumor Classification in MRI Images
 
-Model Building and Network Comparison
 
 ## Brain_Tumor_Classification
 
