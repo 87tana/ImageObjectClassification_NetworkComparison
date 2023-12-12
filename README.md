@@ -33,16 +33,6 @@ Data augmentation involves applying various transformations to the existing data
 
 Apply rescaling to all three datasets (train, validation, and test) for comparability. However, limit data augmentation techniques to the training dataset only, excluding the test and validation sets. This ensures that the model is evaluated on its ability to make predictions on unseen, unaltered data during the testing and validation phases.
 
-## Cohesive Framework:
-I tackle this problem through a structured process consisting of six key stages:
-
-1. Description of the Dataset
-2. Importing and Preprocessing of Data
-3. Augmentation of Data
-4. Building the Model
-5. Analyzing and Comparing Models
-6. Drawing Conclusions
-
 ## What is transfer learning?
 
 Transfer learning accelerate deep CNN model training by reusing weights from pre-trained models on a large dataset, such as MobileNet with ImageNet weights. This approach is valuable for smaller datasets, providing an effective shortcut to model training. It involves adapting a pre-trained model to related tasks with limited labeled data, enhancing learning efficiency across various applications like image classification, object detection, etc.
