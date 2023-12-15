@@ -1,4 +1,4 @@
-# Comparative Analysis of CNN Architectures for Brain Tumor Classification in MRI Images
+# Brain Tumor Classification: A Comparative Analysis of VGG16, ResNet50, Xception, and MobileNets Convolutional Neural Networks on MRI Images
 
 
 ## Brain_Tumor_Classification
