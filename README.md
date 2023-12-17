@@ -61,6 +61,17 @@ Transfer learning accelerate deep CNN model training by reusing weights from pre
   - Noteworthy success in classifying "meningioma" and "no-tumor" cases.
 
 
+## Future Work Suggestions:
+  - Explore dataset expansion and diversification to enhance model robustness.
+  - Implement data augmentation techniques to address class imbalances.
+  - Investigate the impact of hyperparameter tuning for improved model performance.
+  - Explore alternative optimizers and loss functions to optimize the training process.
+  - Address the challenges posed by misclassifications through further investigation.
+
+## Overall Research Direction:
+  - Future studies should focus on refining the model's ability to handle diverse and imbalanced datasets.
+  - Avenues for improvement include algorithmic enhancements and exploration of advanced optimization techniques.
+
 
 
 
