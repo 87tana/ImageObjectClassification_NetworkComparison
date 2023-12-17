@@ -55,6 +55,10 @@ Transfer learning accelerate deep CNN model training by reusing weights from pre
 4. **MobileNet:**
    - MobileNet is a lightweight neural network architecture designed for mobile and embedded vision applications. It is trained on the ImageNet dataset, and its efficient design makes it suitable for real-time image classification on resource-constrained devices.
   
+## Conclusion and Future work:
+  - Satisfactory performance observed for VGG16, Xception, and MobileNet in the Brain Tumor Classification dataset.
+  - Exception for ResNet50, which exhibited suboptimal performance.
+  - Noteworthy success in classifying "meningioma" and "no-tumor" cases.
 
 
 
