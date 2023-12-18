@@ -37,7 +37,9 @@ Apply rescaling to all three datasets (train, validation, and test) for comparab
 
 Transfer learning accelerate deep CNN model training by reusing weights from pre-trained models on a large dataset, such as MobileNet with ImageNet weights. This approach is valuable for smaller datasets, providing an effective shortcut to model training. It involves adapting a pre-trained model to related tasks with limited labeled data, enhancing learning efficiency across various applications like image classification, object detection, etc.
 
-## 
+## Results
+
+
 
   
 ## Conclusion and Future work:
