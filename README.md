@@ -12,6 +12,8 @@
 
 ## My Medium Articles on Brain Tumor Classification
 - Overview of VGG16, ResNet50, Xception and MobileNet Neural Networks [Medium](https://medium.com/@t.mostafid/overview-of-vgg16-xception-mobilenet-and-resnet50-neural-networks-c678e0c0ee85)
+
+- https://medium.com/@t.mostafid/brain-tumor-classification-analysis-of-vgg16-resnet50-xception-and-mobilenets-convolutional-a7445638a233
   
 - Brain Tumor Classification: A Comparative Analysis of Convolutional Neural Network Architecture on MRI Images [Medium](https://medium.com/p/a7445638a233/edit)
 
