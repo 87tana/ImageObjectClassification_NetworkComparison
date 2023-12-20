@@ -1,8 +1,5 @@
 # Brain Tumor Classification: A Comparative Analysis of VGG16, ResNet50, Xception, and MobileNets Convolutional Neural Networks on MRI Images
 
-
-## Brain_Tumor_Classification
-
 <div align="center">
     <img width="400" src="/images/sanple_images_brain_tumor_dataset.png" alt="Material Bread logo"> 
     <p style="text-align: center;">Photo created by autor</p> 
