@@ -20,19 +20,10 @@ These models predict the presence of a brain tumor based on MRI scans, and their
 
 - Source of data [Brain Tumor](https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri)
 
-## What is brain tumor?
+## Brain Tumor Classification Dataset
+The dataset consists of 3264 MRI images. 926 are “gliomas”, 937 are “meningiomas”, 901 are “pituitary” tumors, and 500 are images representing cases without tumors. Figure 1 illustrates sample images from each class, showing significant inter- and intra-class diversity.
 
-A brain tumor refers to an accumulation of abnormal cells in the brain, presenting a significant health concern due to its aggressive nature. Magnetic Resonance Imaging (MRI) stands out as the most effective technique for detecting brain tumors.
-
-## Data Augmentation and Rescaling
-
-Data augmentation involves applying various transformations to the existing dataset to create additional training examples. These transformations, such as rotation, flipping, or zooming, help enhance the model's ability to generalize and perform well on unseen data. Data augmentation is particularly useful improving the neural network's ability to handle translation invariance.
-
-Apply rescaling to all three datasets (train, validation, and test) for comparability. However, limit data augmentation techniques to the training dataset only, excluding the test and validation sets. This ensures that the model is evaluated on its ability to make predictions on unseen, unaltered data during the testing and validation phases.
-
-## What is transfer learning?
-
-Transfer learning accelerate deep CNN model training by reusing weights from pre-trained models on a large dataset, such as MobileNet with ImageNet weights. This approach is valuable for smaller datasets, providing an effective shortcut to model training. It involves adapting a pre-trained model to related tasks with limited labeled data, enhancing learning efficiency across various applications like image classification, object detection, etc.
+The dataset was randomly divided into 2870 training and 394 test sets for the experiments. Figure below illustrates the statistics of the training and test sets, showing a notable difference in the distribution of classes between them. This difference poses a challenge for CNN models to generalize from the trained model to the test set. In addition, both sets exhibit class imbalances, presenting an additional challenge to the models. For training, a validation set consisting of 15% of the training set was randomly sampled with a class distribution similar to the training set.
 
 ## Results
 
