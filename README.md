@@ -34,9 +34,6 @@ The dataset was randomly divided into 2870 training and 394 test sets for the ex
     <p style="text-align: center;">Photo created by autor</p> 
 </div>
 
-
-
-## Results
   
 ## Conclusion and Future work:
   - Satisfactory performance observed for VGG16, Xception, and MobileNet in the Brain Tumor Classification dataset.
