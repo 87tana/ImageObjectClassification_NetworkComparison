@@ -31,7 +31,7 @@ The dataset was randomly divided into 2870 training and 394 test sets for the ex
 </div>
 
 ## Model Training
-
+During the training phase, the specified models are trained on the training dataset and validated on the validation set. A consistent batch size of 64, the Adam optimizer, and the Categorical Cross Entropy loss function are used for all models. Due to variations in structure and parameter count, different learning rates are assigned to ensure effective training, and different numbers of epochs are implemented to prevent overfitting as the models converge.
 
 
 
