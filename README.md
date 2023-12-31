@@ -34,7 +34,7 @@ The dataset was randomly divided into 2870 training and 394 test sets for the ex
 During the training phase, the specified models are trained on the training dataset and validated on the validation set. A consistent batch size of 64, the Adam optimizer, and the Categorical Cross Entropy loss function are used for all models. Due to variations in structure and parameter count, different learning rates are assigned to ensure effective training, and different numbers of epochs are implemented to prevent overfitting as the models converge.
 
 <div align="center">
-    <img width="1000" src="/images/model comparison.png" alt="Material Bread logo"> 
+    <img width="1000" src="/images/vgg_accuracy_loss.png" alt="Material Bread logo"> 
     <p style="text-align: center;">Photo created by author</p> 
 </div>
 
@@ -45,13 +45,11 @@ During the training phase, the specified models are trained on the training data
 The trained models are then tested on the test dataset. Considering the training and validation curves, the best epoch is selected when the loss is the smallest, the accuracy is the largest for the training, and just before the model starts overfitting when the validation curves start to diverge. Therefore, for VGG16 epoch 15, for ResNet50 epoch 46, for Xception epoch 20, and for MobileNet epoch 50 are considered for evaluation.
 
 <div align="center">
-    <img width="1000" src="/images/vgg_accuracy_loss.png" alt="Material Bread logo"> 
+    <img width="1000" src="/images/model comparison.png" alt="Material Bread logo"> 
     <p style="text-align: center;">Photo created by author</p> 
 </div>
 
 
-
-  
 ## Conclusion and Future work:
   - Satisfactory performance observed for VGG16, Xception, and MobileNet in the Brain Tumor Classification dataset.
   - Exception for ResNet50, which exhibited suboptimal performance.
