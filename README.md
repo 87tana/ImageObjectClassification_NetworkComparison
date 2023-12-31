@@ -25,7 +25,7 @@ The dataset consists of 3264 MRI images. 926 are “gliomas”, 937 are “menin
 The dataset was randomly divided into 2870 training and 394 test sets for the experiments. Figure below illustrates the statistics of the training and test sets, showing a notable difference in the distribution of classes between them. This difference poses a challenge for CNN models to generalize from the trained model to the test set. In addition, both sets exhibit class imbalances, presenting an additional challenge to the models. For training, a validation set consisting of 15% of the training set was randomly sampled with a class distribution similar to the training set.
 
 <div align="center">
-    <img width="400" src="/images/Distributionall.png" alt="Material Bread logo"> 
+    <img width="200" src="/images/Distributionall.png" alt="Material Bread logo"> 
     <p style="text-align: center;">Photo created by autor</p> 
 </div>
 
