@@ -40,7 +40,7 @@ The trained models are then tested on the test dataset. Considering the training
 
 
 <div align="center">
-    <img width="400" src="/images/Distributionatest.png" alt="Material Bread logo"> 
+    <img width="400" src="/images/model comparison.png" alt="Material Bread logo"> 
     <p style="text-align: center;">Photo created by autor</p> 
 </div>
 
