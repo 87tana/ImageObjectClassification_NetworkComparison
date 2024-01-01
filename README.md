@@ -38,6 +38,11 @@ During the training phase, the specified models are trained on the training data
     <p style="text-align: center;">Photo created by author</p> 
 </div>
 
+<div align="center">
+    <img width="1000" src="/images/ResNet50_accuracy_loss.png" alt="Material Bread logo"> 
+    <p style="text-align: center;">Photo created by author</p> 
+</div>
+
 
 
 ## Model Evaluation:
