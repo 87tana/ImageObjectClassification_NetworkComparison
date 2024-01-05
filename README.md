@@ -71,6 +71,12 @@ The trained models are then tested on the test dataset. Considering the training
   - Noteworthy success in classifying "meningioma" and "no-tumor" cases.
 
 
+<div align="center">
+    <img width="1000" src="/images/Results.webp" alt="Material Bread logo"> 
+    <p style="text-align: center;">Photo created by author</p> 
+</div>
+
+
 ## Future Work Suggestions and Overall Research Direction
   - Explore dataset expansion and diversification to enhance model robustness.
   - Implement data augmentation techniques to address class imbalances.
