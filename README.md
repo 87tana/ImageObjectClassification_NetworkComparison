@@ -72,7 +72,7 @@ The trained models are then tested on the test dataset. Considering the training
 
 
 <div align="center">
-    <img width="1000" src="/images/Results.webp" alt="Material Bread logo"> 
+    <img width="800" src="/images/Results.webp" alt="Material Bread logo"> 
     <p style="text-align: center;">Photo created by author</p> 
 </div>
 
