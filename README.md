@@ -44,7 +44,7 @@ During the training phase, the specified models are trained on the training data
 </div>
 
 <div align="center">
-    <img width="1000" src="/images/Xception_accuracy_loss.png" alt="Material Bread logo"> 
+    <img width="1200" src="/images/Xception_accuracy_loss.png" alt="Material Bread logo"> 
     <p style="text-align: center;">Photo created by author</p> 
 </div>
 
