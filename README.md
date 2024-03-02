@@ -78,7 +78,7 @@ The trained models are then tested on the test dataset. Considering the training
 
 
 ## Future Work Suggestions and Overall Research Direction
-  - Explore dataset expansion and diversification to enhance model robustness.
+  - Investigate methods for enlarging and diversifying datasets to bolster the resilience of the model.
   - Implement data augmentation techniques to address class imbalances.
   - Investigate the impact of hyperparameter tuning for improved model performance.
   - Explore alternative optimizers and loss functions to optimize the training process.
