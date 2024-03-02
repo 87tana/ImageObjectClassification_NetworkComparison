@@ -84,7 +84,7 @@ The trained models are then tested on the test dataset. Considering the training
   - Explore alternative optimizers and loss functions to optimize the training process.
   - Address the challenges posed by misclassifications through further investigation.
   - Future studies should focus on refining the model's ability to handle diverse and imbalanced datasets.
-  - Avenues for improvement include algorithmic enhancements and exploration of advanced optimization techniques.
+  - Opportunities for enhancement involve refining algorithms and delving into sophisticated optimization methods.
 
 
 
