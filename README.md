@@ -13,9 +13,7 @@
 
 ## Introduction:
 
-This project employs **deep learning** to classify brain tumors in MRI scans, emphasizing a comparative analysis of  various **transfer learning** approaches.
-Four distinct deep neural network models, namely **VGG16**, **MobileNet, Xception, and ResNet50 models**, we categorize brain tumors into four classes: No Tumor, Glioma, Meningioma, and Pituitary.
-These models predict the presence of a brain tumor based on MRI scans, and their comparative analysis offers insights into their performance for brain tumor classification.
+Utilizing deep learning techniques, this project focuses on the classification of brain tumors in MRI scans, with an emphasis on comparing different transfer learning methods. Four specific deep neural network models - VGG16, MobileNet, Xception, and ResNet50 - are employed to classify brain tumors into four distinct categories: No Tumor, Glioma, Meningioma, and Pituitary. By analyzing these models, we aim to understand their effectiveness in predicting the presence of brain tumors based on MRI scans, providing valuable insights into their performance for tumor classification.
 
 - Source of data [Brain Tumor](https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri)
 
